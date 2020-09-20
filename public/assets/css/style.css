@@ -1,0 +1,96 @@
+body {
+  background-image: url(../images/burger-background.jpg);
+  text-align: center;
+}
+
+button {
+  font-weight: bold;
+  background-color: beige;
+  color: black;
+  border: dashed 2px black;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  list-style: none;
+  text-align: center;
+}
+
+.header-size {
+  font-size: 32px;
+}
+
+.text-size {
+  font-size: 24px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: rgba(255, 166, 0, 0.76);
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.container {
+  position: relative;
+}
+
+#burger-image {
+  padding-top: 25px;
+  padding-bottom: 20px;
+  margin-left: 49%;
+}
+
+#title {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  opacity: 0.85;
+  margin-bottom: 15px;
+  font-size: 50px;
+  background-color: coral;
+  max-width: 100%;
+}
+
+#add-burger {
+  background-color: rgba(255, 255, 0, 0.753);
+  border-radius: 15%;
+  position: relative;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+#devoured-burgers {
+  background-color: greenyellow;
+  border-radius: 15%;
+  padding: 15px;
+  height: 300px;
+  width: 550px;
+  margin-top: 15px;
+  margin-right: 15px;
+  margin-left: 30px;
+  float: left;
+}
+
+#burger-options {
+  background-color: rgb(60, 148, 1);
+  border-radius: 15%;
+  padding: 15px;
+  height: 30px;
+  width: 550px;
+  margin-top: 15px;
+  margin-right: 300px;
+  margin-left: 15px;
+  float: left;
+}
