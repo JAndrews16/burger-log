@@ -3,6 +3,8 @@
 ## Description
 This application allows users to track various burgers that have or have not been eaten. Whether you are an owner of a Burger Restaurant or a participant in a Burger judging competition, this application will help to track all burgers devoured and ones that have yet to be.
 
+![Application Demo](./public/assets/images/demo.gif)
+
 ## Table of Contents
 - [Installation](#Installation)
 - [Usage](#Usage)
