@@ -20,9 +20,11 @@ This application allows users to track various burgers that have and have not be
 
 ## Questions
 GitHub Username: JAndrews16
+
 Repository Link: https://github.com/JAndrews16/burger-log
 
-
-![github avatar](https://avatars3.githubusercontent.com/u/64562140?v=4)
+Heroku App Link: https://agile-peak-58096.herokuapp.com/
 
 ![github follower badge](https://img.shields.io/github/followers/JAndrews16?color=blue&style=social)
+
+![github avatar](https://avatars3.githubusercontent.com/u/64562140?v=4)
